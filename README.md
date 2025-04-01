@@ -31,3 +31,54 @@ D.- Diagnostic analytics asks, “Why did this happen?”
 
 10.- Status: The current status of the project. In most cases, you will be putting information into the repository while you are working on the project, so the status will be “in process” and, later, “complete/released”. If there are multiple versions of your project, you can indicate the version here, as well.
 11.- Credits: List of individuals or organizations that contributed or provided assistance to you while you created the project. You can also list sites that provided inspiration or feedback.
+
+Lab - Research Portfolio Requirements
+Objectives
+In this lab, you will explore Data Analyst Portfolios and create checklist to showcase data analyst skills.
+
+Part 1: Research Data Analyst Portfolios
+source: https://careerfoundry.com/en/blog/data-analytics/data-analytics-portfolio-examples/#james-le
+Step 1: Search for data analyst portfolios:
+Part 1: Research Data Analyst Portfolios.
+        -Description: These show personality, personal brand, and interests.
+        -Abilities and show it with links to your projects or social media.
+
+Step 2: List possible projects.
+-Antibiotics use.
+-Agricultural products selled it to EUA.
+-Most consumed products in Mexico.
+
+Step 3: Consider possible portfolio styles.
+-Include a description that shows interest in data science, and other topics, like science, food safety, business, etc.
+-Show projects through images that link to the tableau or BI public dashboards.
+
+Step 4: Create a portfolio checklist.
+-Description.
+-Abilities.
+-Interests.
+-Skills.
+-Projects.
+
+Part 2: Create Data Analyst Skills Checklist.
+
+  A.- Collecting, processing, and visualizing data.
+  B.- Storytelling.
+  C.- Tableau.
+  D.- Machine Learning.
+  E.- Python. 
+  F.- Software Engineering. 
+  G.- Math.
+  H.- SQL.
+  I.- Statistics.
+  J.- BI.
+  K.- R
+  L.- Excel.
+  M.- Critical thinking.
+  N.- English proficiency.
+  O.- Big data analitics.
+  P.- Cloud technologies.
+  R.- Linux.
+  
+  
+  
+  
